@@ -1,0 +1,4 @@
+interface:
+  display_name: "wangyibianju 编剧"
+  short_description: "写剧情短片与带货短剧，把商品融入冲突、卖点演示和自然成交表达"
+  default_prompt: "用 $wangyibianju 把我的故事整理成可拍摄剧本，估算自然表演时长。"
